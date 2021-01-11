@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/kobalt/.dotnet/store/|arch|/|tfm|",
+      "/home/kobalt/.nuget/packages"
+    ]
+  }
+}
